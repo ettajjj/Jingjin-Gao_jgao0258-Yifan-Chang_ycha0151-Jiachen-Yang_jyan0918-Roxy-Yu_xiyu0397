@@ -26,6 +26,7 @@
    - **Option 2**: Texture using the random walker technique, adding a unique, textured effect to the background.
 
 Figure 1
+
 ![Figure 1](/readimage/Figure%201.png)
 
 
