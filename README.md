@@ -74,8 +74,39 @@
 
 
 
+## Section 3 – Implementation
+
+1. **Phase 1: Initial Rendering**  
+   - We chose to render an apple tree inspired by the *Avatar* film's "Tree of Life." Through five iterations, we refined the design before finalizing the code. The first design generation (Figure 9) didn't fully capture the "Tree of Life" inspiration, so we decided to incorporate more subtle elements to enhance the tree’s complexity.
+
+2. **Phase 2: Second Generation**  
+   - In the second iteration, we added dense circular elements to represent branches and fruits (Figure 10). However, this version felt disproportionate, especially in the lower half, making the overall appearance less aesthetically pleasing.
+
+3. **Phase 3: Third Generation**  
+   - Building on the first two versions, we refined the tree's body by adding vertical line elements, focusing on creating a sense of randomness and freedom. We introduced dynamic, free-floating line elements in the background. However, the final outcome appeared overly chaotic (Figure 11), as the lines were too freely distributed.
+
+4. **Phase 4: Fourth Generation**  
+   - To reduce background clutter, we removed the excessive lines and introduced uniformly colored circles of varying sizes in the main tree body (Figure 12). This step helped to refine the design while maintaining a structured randomness.
+
+5. **Final Generation**  
+   - In the last iteration, we agreed that the background should be minimalistic to emphasize the apple tree’s main body. We removed the circles from the top half, retaining the final apple tree structure, which was then coded into the final design.
 
 
+**Figure 9**
+
+![Figure 9](/readimage/Figure%209.png)
+
+**Figure 10**
+
+![Figure 10](/readimage/Figure%2010.png)
+
+**Figure 11**
+
+![Figure 11](/readimage/Figure%2011.png)
+
+**Figure 12**
+ 
+![Figure 12](/readimage/Figure%2012.png)
 
 
 
