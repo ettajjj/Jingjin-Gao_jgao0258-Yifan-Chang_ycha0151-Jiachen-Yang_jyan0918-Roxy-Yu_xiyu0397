@@ -76,16 +76,16 @@
 
 ## Section 3 – Implementation
 
-1. **Phase 1: Initial Rendering**  
+1. **Initial Rendering**  
    - We chose to render an apple tree inspired by the *Avatar* film's "Tree of Life." Through five iterations, we refined the design before finalizing the code. The first design generation (Figure 9) didn't fully capture the "Tree of Life" inspiration, so we decided to incorporate more subtle elements to enhance the tree’s complexity.
 
-2. **Phase 2: Second Generation**  
+2. **Second Generation**  
    - In the second iteration, we added dense circular elements to represent branches and fruits (Figure 10). However, this version felt disproportionate, especially in the lower half, making the overall appearance less aesthetically pleasing.
 
-3. **Phase 3: Third Generation**  
+3. **Third Generation**  
    - Building on the first two versions, we refined the tree's body by adding vertical line elements, focusing on creating a sense of randomness and freedom. We introduced dynamic, free-floating line elements in the background. However, the final outcome appeared overly chaotic (Figure 11), as the lines were too freely distributed.
 
-4. **Phase 4: Fourth Generation**  
+4. **Fourth Generation**  
    - To reduce background clutter, we removed the excessive lines and introduced uniformly colored circles of varying sizes in the main tree body (Figure 12). This step helped to refine the design while maintaining a structured randomness.
 
 5. **Final Generation**  
@@ -110,34 +110,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Section 4 – Technical Overview
 
 ### 1. Comprehensive Overview
@@ -146,21 +118,39 @@ This code is used to create a visual art canvas containing circles and lines of 
 ### 2. Code Snippets and Explanation
 
 #### 2.1 Initialization Settings
-**Explanation**: The `setup()` function initializes the size of the canvas, sets the background color, and calls `drawElements()` to draw the elements. The scale factor `scaleFactor` is used to dynamically adjust the size of the elements.
+**Explanation**: The `setup()` function initializes the size of the canvas, sets the background color, and calls `drawElements()` to draw the elements. The scale factor `scaleFactor` is used to dynamically adjust the size of the elements (Figure 13).
 
+**Figure 13**
 
+![Figure 13](/readimage/Figure%2013.png)
 
 #### 2.2 Circle Class
-**Explanation**: The `Circle` class defines the properties of a circle (position, radius, color) and the `draw()` method, which is used to draw circles on the canvas.
+**Explanation**: The `Circle` class defines the properties of a circle (position, radius, color) and the `draw()` method, which is used to draw circles on the canvas (Figure 14).
+
+**Figure 14**
+
+![Figure 14](/readimage/Figure%2014.png)
 
 #### 2.3 Line Class
-**Explanation**: The `Line` class defines the properties of a line (start and end positions, color, line thickness) and the `draw()` method, which is used to draw lines on the canvas.
+**Explanation**: The `Line` class defines the properties of a line (start and end positions, color, line thickness) and the `draw()` method, which is used to draw lines on the canvas (Figure 15).
+
+**Figure 15**
+
+![Figure 15](/readimage/Figure%2015.png)
 
 #### 2.4 `function windowResized()`
-**Function**: Dynamically adjusts the canvas size. When the browser window size changes, the canvas automatically resizes and redraws all elements.
+**Function**: Dynamically adjusts the canvas size. When the browser window size changes, the canvas automatically resizes and redraws all elements (Figure 16).
+
+**Figure 16**
+
+![Figure 16](/readimage/Figure%2016.png)
 
 ### 3. Code Flowchart
-*To be added as an image or diagram illustrating the code execution flow.*
 
----
+**Figure 17**
+
+![Figure 17](/readimage/Figure%2017.png)
+
+
+
 
