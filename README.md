@@ -1,10 +1,6 @@
 # Jingjin-Gao_jgao0258-Yifan-Chang_ycha0151-Jiachen-Yang_jyan0918-Roxy-Yu_xiyu0397
 
 
----
-
-# README
-
 ## Section 1 – Research and Inspiration
 
 1. **Inspiration**  
@@ -25,18 +21,52 @@
    - **Option 1**: A solid dark background, highlighting the “Apple Tree’s” complex form and accentuating the colorful vines and fluorescent lights.
    - **Option 2**: Texture using the random walker technique, adding a unique, textured effect to the background.
 
-Figure 1
+**Figure 1**
 
 ![Figure 1](/readimage/Figure%201.png)
 
-Figure 2
+**Figure 2**
 
 ![Figure 2](/readimage/Figure%202%20.png)
 
-Figure 3
+**Figure 3**
 
 ![Figure 3](/readimage/Figure%203.png)
 
+
+
+
+
+## Section 2 – Technical Planning
+
+1. **Project Inspiration**  
+   - This creation is inspired by an exploration of the cycle of life, the relationship between humanity and nature, and the use of coding technologies to generate artwork. Influenced by artist Casey Reas, we aim to express the rhythm of life of the apple tree through geometric layering and dynamic transformations, blending nature's unpredictability with the precision of digital programming (Figure 4). This combination allows the audience to experience nature in a way that feels both familiar and strangely new.
+
+2. **Generative Art and Coding as Visual Language**  
+   - Reas's concept of generative art reveals that code is not merely a tool but a new visual language. Through coding techniques, we intend to let the branches and leaves of the apple tree "grow" within the program, simulating the natural expansion and transformation of plants in the real world. Using Perlin noise, we will give the apple tree a subtle sense of randomness and organic quality. Interactive elements will allow the audience to experience the tree's growth through direct engagement. This generative process not only recreates the physical appearance of the apple tree but also expresses its inner vitality, as though the audience is witnessing the tree's seasonal cycles and growth year after year (Figures 5 & 6).
+
+3. **Abstract Expression of Nature’s Rhythm**  
+   - Vyacheslav Kulikov's works inspire us to convey nature's rhythm from an abstract perspective. In this piece, we incorporated interactive elements that allow the apple tree’s growth and color to change in response to audience behavior. For instance, when the audience taps the keyboard, the color and transparency of the leaves change, and the branches adjust their growth speed in response to external influence. This interactive mechanism goes beyond mere "participation" in the artwork; it also serves as a metaphor for the human-nature relationship, illustrating how our actions affect the balance and evolution of ecosystems.
+
+4. **Seasonal Color Shifts**  
+   - The seasonal color shifts of the apple tree are inspired by the work of Impressionist painter Georgia O’Keeffe. Known for her adept use of color to convey the impact and beauty of natural landscapes, we draw from her color choices and presentation to create an evolving work. Through the screen, the audience can visually experience the life cycle of the apple tree and, in turn, feel the passage of time (Figures 7 & 8).
+
+
+**Figure 4**
+
+![Figure 4](/readimage/Figure%204.png)
+
+**Figure 5**
+
+![Figure 5](/readimage/Figure%205.png)
+
+**Figure 6**
+
+![Figure 6](/readimage/Figure%206.png)
+
+**Figure 7**
+ 
+![Figure 7](/readimage/Figure%207.png)
 
 
 
