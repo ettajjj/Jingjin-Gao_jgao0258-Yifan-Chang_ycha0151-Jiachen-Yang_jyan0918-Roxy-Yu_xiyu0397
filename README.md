@@ -154,3 +154,27 @@ This code is used to create a visual art canvas containing circles and lines of 
 
 
 
+
+## References
+
+1. Gonzalez, N. (2023). *Avatar wallpaper. Avatar collage by Natalia* [Photograph]. Retrieved from [Pinterest](https://pin.it/NeuZLTn7H)
+
+2. Pizana, N. (2015, March 16). *EVA EUN-SIL HAN’S TEXTURED COLLAGES UTILIZE GEOMETRIC PATTERNS*. Retrieved from [Hi-Fructose](https://hifructose.com/2015/03/16/eva-eun-sil-hans-textured-collages-utilize-geometric-patterns/)
+
+3. @Agencja Promocyjna. (n.d.). *BACKBONE OF THE WIND: Photo* [Photograph]. Retrieved from [Pinterest](https://pin.it/3h606ua34)
+
+4. Reas, C. (2023). *Metavasarely*. Retrieved from [reas.com](https://reas.com/metavasarely/)
+
+5. Vyacheslav K. (2018). *Renaissance*. Retrieved from [Saatchi Art](https://www.saatchiart.com/en-au/art/Painting-July-Evening/1102578/4359240/view)
+
+6. Vyacheslav K. (2018). *July Evening*. Retrieved from [Saatchi Art](https://www.saatchiart.com/en-au/art/Painting-July-Evening/1102578/4359240/view)
+
+7. O’Keeffe, G. (1936). *Jimson Weed*. Retrieved from [Georgia O’Keeffe Art Collection](https://www.georgiaokeeffe.net/jimson-weed.jsp#google_vignette)
+
+8. O’Keeffe, G. (1941). *Pedernal*. Retrieved from [Google Arts & Culture](https://artsandculture.google.com/asset/pedernal/ZQFZYRmomxV-iw?hl=en-GB)
+
+
+
+
+
+
