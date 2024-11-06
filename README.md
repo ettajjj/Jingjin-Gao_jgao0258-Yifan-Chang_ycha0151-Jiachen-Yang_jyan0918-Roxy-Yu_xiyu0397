@@ -29,6 +29,15 @@ Figure 1
 
 ![Figure 1](/readimage/Figure%201.png)
 
+Figure 2
+
+![Figure 2](/readimage/Figure%202%20.png)
+
+Figure 3
+
+![Figure 3](/readimage/Figure%203.png)
+
+
 
 
 
