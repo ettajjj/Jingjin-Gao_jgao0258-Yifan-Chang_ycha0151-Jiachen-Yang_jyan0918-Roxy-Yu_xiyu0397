@@ -25,7 +25,7 @@
    - **Option 1**: A solid dark background, highlighting the “Apple Tree’s” complex form and accentuating the colorful vines and fluorescent lights.
    - **Option 2**: Texture using the random walker technique, adding a unique, textured effect to the background.
 
-
+！[Figure 1](/readimage/Figure%201.png)
 
 
 
